@@ -111,4 +111,4 @@ Shobhit Kumar
 
 ## 🛡 Copyright Notice
 
-© 2025 Shobhit Kumar — This Website is developed and maintained by Shobhit Kumar. All rights reserved.
+© 2025 Shobhit Kumar — This is developed and maintained by Shobhit Kumar. All rights reserved.
