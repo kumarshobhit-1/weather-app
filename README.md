@@ -21,7 +21,7 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays u
 
 ## 🌍 Live Demo
 
-🔗 [Click here to view the Weather App](https://your-live-link.com)  
+🔗 [Click here to view the Weather App](https://weather-app278.netlify.app/)  
 
 ---
 
