@@ -36,6 +36,7 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays u
 
 ## 📂 Project Structure
 
+```bash
 📦 weather-app
 ┣ 📂 src
 ┃ ┣ 📜 App.jsx
@@ -47,7 +48,7 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays u
 ┣ 📜 package.json
 ┣ 📜 README.md
 ┗ 📜 .env
-
+```
 ---
 
 ## ⚙️ Setup & Installation
@@ -56,11 +57,13 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays u
    ```bash
    git clone https://github.com/kumarshobhit-1/weather-app.git
    cd weather-app
+   ```
 
 
 2. **Install dependencies**
     ```bash
     npm install
+    ```
 
 
 3. **Create .env file in project root**
@@ -73,6 +76,7 @@ VITE_API_KEY=your_openweathermap_api_key
 
     ```bash
     npm run dev
+    ```
 
 ---
 
@@ -93,6 +97,7 @@ This project uses the [OpenWeatherMap](https://openweathermap.org/api) API to fe
 Example API call:
     ```bash
     https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=YOUR_API_KEY&un
+    ```
 
 ---
 
